@@ -3,6 +3,3 @@
 #  type        = string
 #}
 
-variable "input_config" {
-  type = any
-}
